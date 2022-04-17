@@ -1,4 +1,3 @@
-name: MLBase
 channels:
   - conda-forge
   - defaults
@@ -16,4 +15,3 @@ dependencies:
   - matplotlib
   - seaborn
   - certifi
-prefix: /Users/slhenty/opt/miniconda3/envs/MLBase
