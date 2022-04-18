@@ -23,3 +23,5 @@ code.
 ## Guide
 
 The entry point to the pattern guide is a Jupyter Notebook, [Guide](mlpatterns/Guide.ipynb), in the root of the project.
+
+View the notebook on Binder: [![Binder](https://mybinder.org/badge_logo.svg)](https://mybinder.org/v2/gh/slhenty/machine-learning-guide/chore/binder-support?urlpath=tree%2Findex.ipynb)
