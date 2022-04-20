@@ -25,5 +25,6 @@ code.
 The entry point to the pattern guide is a Jupyter Notebook, [Guide](mlpatterns/Guide.ipynb), in the root of the project.
 
 View the notebook on Binder,
-- Stable: [![Binder](https://mybinder.org/badge_logo.svg)](https://mybinder.org/v2/gh/slhenty/machine-learning-guide/master?urlpath=tree%2Findex.html)
-- Latest: [![Binder](https://mybinder.org/badge_logo.svg)](https://mybinder.org/v2/gh/slhenty/machine-learning-guide/latest?urlpath=tree%2Findex.html)
+- Stable: [![Binder](https://mybinder.org/badge_logo.svg)](https://mybinder.org/v2/gh/slhenty/machine-learning-guide/stable?urlpath=tree%2Findex.html)
+- Latest: [![Binder](https://mybinder.org/badge_logo.svg)](https://mybinder.org/v2/gh/slhenty/machine-learning-guide/master?urlpath=tree%2Findex.html)
+- WIP: [![Binder](https://mybinder.org/badge_logo.svg)](https://mybinder.org/v2/gh/slhenty/machine-learning-guide/HEAD?urlpath=tree%2Findex.html)
